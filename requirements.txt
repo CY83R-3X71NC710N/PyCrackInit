@@ -1,0 +1,8 @@
+
+
+cryptography==3.2.1
+pycryptodome==3.9.8
+pycryptodomex==3.9.8
+pycryptodome-aes==3.9.8
+pycryptodome-hmac==3.9.8
+pycryptodome-pbkdf2==3.9.8
