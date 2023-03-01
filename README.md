@@ -17,7 +17,6 @@ PyCrackInit uses various encryption techniques in order to secure our data, name
 * [Usage](#usage)
 * [Tests](#tests)
 * [Development](#development)
-* [Screenshots](#screenshots)
 * [Acknowledgements](#acknowledgements)
 * [License](#license)
 
@@ -73,15 +72,10 @@ To ensure correctness, we have created unit tests and integration tests for all 
 ## Development
 We are always looking for new contributors to help us build out the library and make it more secure. If you would like to contribute, please fork the repository and create a pull request with your changes. 
 
-## Screenshots
-Here is a screenshot of the encrypted file. Notice the encryption key that is used to encrypt the file:
-
-![screenshot](screenshot.png)
-
 ## Acknowledgements
 We would like to thank the Python community for their support. We would also like to thank [PyCrypto](#) for providing the tools needed to build this library.
 
 ## License
 The PyCrackInit software is licensed under the [MIT License](LICENSE). The license text is available in the root of this repository. 
 
-CY83R-3X71NC710N ©2023
+CY83R-3X71NC710N Â©2023
